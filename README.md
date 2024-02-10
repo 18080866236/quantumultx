@@ -1,4 +1,4 @@
-#自定义策略：
+# 自定义策略：
 [policy]
 ;ssid=SSID,Proxy,♻️ 自动选择,Home2604_5G:♻️ 自动选择
 ;具体解释如下
@@ -11,7 +11,7 @@ static=🚀 节点选择, proxy, direct, ♻️ 自动选择, 🔮 负载均衡,
 url-latency-benchmark=♻️ 自动选择, server-tag-regex=(?=.*)^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-g.png
 round-robin=🔮 负载均衡, server-tag-regex=.*, img-url=https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-p.png
 
-#自定义
+# 自定义
 # 其中 CMedia 策略组为中国媒体，GMedia 为国际媒体，Outside 为境外链接，Mainland 为大陆链接，Others 为最终规则
 static=AdBlock, reject, direct, img-url=https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/adguard.png
 static=Apple, direct, Outside, 🚀 节点选择,img-url=https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Apple.png
@@ -28,7 +28,7 @@ static=Mainland, direct, proxy, img-url=https://raw.githubusercontent.com/mydaoz
 static=Fianl, Outside, direct, 🚀 节点选择, img-url=https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/fin.png
 
 
-#自用图标库地址： 
+# 自用图标库地址： 
   apple：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Apple.png
   auto-b：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Auto-b.png
   auto-y：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Auto-y.png
