@@ -29,33 +29,33 @@ static=Fianl, Outside, direct, 🚀 节点选择, img-url=https://raw.githubuser
 
 
 # 自用图标库地址： 
-  apple：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Apple.png
-  auto-b：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Auto-b.png
-  auto-y：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Auto-y.png
-  Available：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Available.png
-  Available_Alt：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Available_Alt.png
-  CN：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/CN.png
-  Internet：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Internet.png
-  JP：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/JP.png
-  KR：https://github.com/mydaozun/quantumultx/blob/main/icon/KR.png
-  Siri：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Siri.png
-  Speedtest：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Speedtest.png
-  Spotify：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Spotify.png
-  TW：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/TW.png
-  TikTok_Alt：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/TikTok_Alt.png
-  US：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/US.png
-  YouTube：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/YouTube.png
-  adguard：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/adguard.png
-  apple-ios：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/apple-ios.png
-  bilibili_3：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/bilibili_3.png
-  fin：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/fin.png
-  lightning-g：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-g.png
-  lightning-p：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-p.png
-  lightning-y：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-y.png
-  media-g：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/media-g.png
-  media-r：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/media-r.png
-  microsoft：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/microsoft.png
-  netflix：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/netflix.png
+apple：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Apple.png
+auto-b：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Auto-b.png
+auto-y：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Auto-y.png
+Available：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Available.png
+Available_Alt：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Available_Alt.png
+CN：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/CN.png
+Internet：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Internet.png
+JP：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/JP.png
+KR：https://github.com/mydaozun/quantumultx/blob/main/icon/KR.png
+Siri：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Siri.png
+Speedtest：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Speedtest.png
+Spotify：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/Spotify.png
+TW：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/TW.png
+TikTok_Alt：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/TikTok_Alt.png
+US：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/US.png
+YouTube：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/YouTube.png
+adguard：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/adguard.png
+apple-ios：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/apple-ios.png
+bilibili_3：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/bilibili_3.png
+fin：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/fin.png
+lightning-g：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-g.png
+lightning-p：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-p.png
+lightning-y：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/lightning-y.png
+media-g：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/media-g.png
+media-r：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/media-r.png
+microsoft：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/microsoft.png
+netflix：https://raw.githubusercontent.com/mydaozun/quantumultx/main/icon/netflix.png
 ：
 ：
 ：
